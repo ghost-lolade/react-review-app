@@ -42,7 +42,7 @@ const Review = () => {
         <FaQuoteRight />
       </span>
     </div>
-    <h4 className='author'>{name}</h4>
+    <h3 className='author'>{name}</h3>
     <p className='job'>{job}</p>
     <p className='info'>{text}</p>
     <div className='button-container'>

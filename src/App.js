@@ -5,12 +5,13 @@ function App() {
     <main>
       <section className='container'>
         <div className='title'>
-          <h2>our review</h2>
+          <h2>ghost review</h2>
           <div className='underline'>
 
           </div>
-          <Review />
+          
         </div>
+        <Review />
       </section>
     </main>
   );
